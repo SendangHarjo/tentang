@@ -1,1 +1,0 @@
-import{y as s,G as r}from"./index-B1D1BjNu.js";const a=(t,n)=>{const c=t.__vccOpts||t;for(const[e,o]of n)c[e]=o;return c},_={},i={href:"javascript:history.back()",class:"btn-back btn btn-sm btn-danger position-absolute"};function b(t,n){return r(),s("a",i," ← Kembali ")}const l=a(_,[["render",b]]);export{l as B};
