@@ -1,4 +1,4 @@
-import"./index-2BdXHCDR.js";//! moment.js
+import"./index-DbdIPlHg.js";//! moment.js
 //! version : 2.30.1
 //! authors : Tim Wood, Iskren Chernev, Moment.js contributors
 //! license : MIT
